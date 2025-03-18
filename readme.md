@@ -1,6 +1,10 @@
 # NBody Simulation
 
-This project was completed in **Spring 2021** for the **COS126** course. It simulates the behavior of celestial bodies in a universe, using the laws of physics to calculate the forces and motion of each body over time.
+This project was completed in **Spring 2021** for the **COS126** course. More information can be found here: 
+
+https://www.cs.princeton.edu/courses/archive/fall18/cos126/assignments/nbody/. 
+
+It simulates the behavior of celestial bodies in a universe, using the laws of physics to calculate the forces and motion of each body over time.
 
 ## How to Run the Code
 
